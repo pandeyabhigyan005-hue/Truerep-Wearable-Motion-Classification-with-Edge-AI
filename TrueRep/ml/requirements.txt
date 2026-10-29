@@ -1,0 +1,4 @@
+m2cgen
+numpy
+pandas
+scikit-learn
